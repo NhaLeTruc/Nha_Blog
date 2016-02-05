@@ -5,7 +5,7 @@ locale: en_US
 description: The Data Wrangler Blog.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://nhaletruc.github.io/Nha_Blog
 
 # Jekyll configuration
 
