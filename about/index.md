@@ -3,10 +3,6 @@ layout: page
 title: About Dataphile
 excerpt: "The cyberspace for data enthusiasts."
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: Ilovedata.png
-  credit: Confluence
-  creditlink: http://www.confluence.com/blog/politics-ms-dos-data-analysis-largest-change-mutual-fund-back-office-since-40-act/
 ---
 
 <!-- Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
